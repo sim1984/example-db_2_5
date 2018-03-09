@@ -1,1 +1,4 @@
-Скрипты создания БД для примеров приложений для СУБД Firebird 2.5
+# Database example for Fireird 2.5
+
+Scripts for creating databases for examples of applications for DBMS Firebird 2.5
+
